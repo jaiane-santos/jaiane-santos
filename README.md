@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/jaiane-santos)
+  ![Snake animation](https://github.com/jaiane-santos/blob/output/github-contribution-grid-snake.svg))
   
 </div>
 
